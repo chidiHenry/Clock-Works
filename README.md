@@ -1,1 +1,1 @@
-# Simple-Angular-App
+# Clockwork- a html and Javascript powered application
