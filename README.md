@@ -1,1 +1,1 @@
-# Simple-Angular-App
+Clock works. A simple HTML Application
